@@ -1,5 +1,5 @@
 # study_smartgit
 
-Изучаем girsmart/
+Изучаем SmartGit/
 
 Попробуем сделать первый коммит и пуш.
